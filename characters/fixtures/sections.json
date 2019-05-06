@@ -1,0 +1,18 @@
+[{"model": "characters.section", "pk": 1, "fields": {"name": "Atributos", "section": null}},
+  {"model": "characters.section", "pk": 2, "fields": {"name": "Físicos", "section": 1}},
+  {"model": "characters.section", "pk": 3, "fields": {"name": "Sociales", "section": 1}},
+  {"model": "characters.section", "pk": 4, "fields": {"name": "Mentales", "section": 1}},
+
+  {"model": "characters.section", "pk": 5, "fields": {"name": "Habilidades", "section": null}},
+  {"model": "characters.section", "pk": 6, "fields": {"name": "Talentos", "section": 5}},
+  {"model": "characters.section", "pk": 7, "fields": {"name": "Técnicas", "section": 5}},
+  {"model": "characters.section", "pk": 8, "fields": {"name": "Conocimientos", "section": 5}},
+
+  {"model": "characters.section", "pk": 9, "fields": {"name": "Ventajas", "section": null}},
+  {"model": "characters.section", "pk": 10, "fields": {"name": "Disciplinas", "section": 9}},
+  {"model": "characters.section", "pk": 11, "fields": {"name": "Trasfondos", "section": 9}},
+  {"model": "characters.section", "pk": 12, "fields": {"name": "Virtudes", "section": 9}},
+
+  {"model": "characters.section", "pk": 13, "fields": {"name": "Otros", "section": null}}
+
+]

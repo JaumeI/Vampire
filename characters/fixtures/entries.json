@@ -1,0 +1,6 @@
+[ {"model": "characters.section", "pk": 14, "fields": {"name": "Fuerza", "section": 2}},
+  {"model": "characters.entry", "pk": 14, "fields": {"general_desc": "Fuerza física", "belongs_to": null}},
+
+  {"model": "characters.section", "pk": 15, "fields": {"name": "Destreza", "section": 2}},
+  {"model": "characters.entry", "pk": 15, "fields": {"general_desc": "Agilidad física", "belongs_to": null}}
+]
